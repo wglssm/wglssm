@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lesi Wei</h1>
 <h3 align="center">A passionate frontend developer Living in Adelaide,AU</h3>
 
-- 🔭 I’m currently working on [ThinkMoreForum](ThinkMoreForum)
+- 🔭 I’m currently working on [ThinkMoreForum](https://github.com/wglssm/ThinkMoreForum-Frontend)
 
 - 🌱 I’m currently learning **React,Node.js**
 
