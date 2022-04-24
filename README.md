@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wglssm&label=Profile%20views&color=0e75b6&style=flat" alt="wglssm" /> </p>
 
-- 🔭 I’m currently working on [ThinkMoreForum](ThinkMoreForum)
+- 🔭 I’m currently working as a Full Stack Software Engineer @Splose
 
 - 🌱 I’m currently learning **React,Node.js**
 
