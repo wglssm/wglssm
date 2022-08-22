@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lesi Wei</h1>
-<h3 align="center">A passionate Full Stack Developer Living in Adelaide,AU</h3>
+<h3 align="center">A passionate Full Stack Developer Living in Adelaide,Australia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wglssm&label=Profile%20views&color=0e75b6&style=flat" alt="wglssm" /> </p>
 
