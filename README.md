@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a Full Stack Software Engineer @Splose
 
-- 🌱 I’m currently learning **React,Node.js**
+- 🌱 I’m currently learning **AWS**
 
 - 📫 How to reach me **wglssm.wls@gmail.com**
 
